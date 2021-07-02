@@ -1,0 +1,24 @@
+.single-post{
+    background-color: aquamarine;
+    padding: 20px;
+    margin: 20px;
+
+}
+.matadata{
+    color: chocolate;
+    border-bottom: 1px solid black;
+    display: block;
+}
+.post{
+    color: darkblue;
+    text-align: justify;
+    font-size: 18px;
+    b
+
+
+}
+.posttitle{
+    color: red;
+    background-color:yellow;
+    b
+}
